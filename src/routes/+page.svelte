@@ -11,7 +11,7 @@
 		<img src="images/bio-picture.png" width="400" height="400" alt="Nicolle Bradford Avatar" />
 	</div>
 	<h1>Nicolle Bradford Plays</h1>
-	<h2>Hype Instagator</h2>
+	<h2>Hype Instigator</h2>
 	<p>
 		<!-- <SocialLinks /> -->
 		<a href="https://pin.it/aYDLBjK">Pinterest</a> |
