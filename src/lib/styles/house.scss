@@ -1,3 +1,47 @@
+@font-face {
+	font-family: 'ChunkFive';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		url('/fonts/ChunkFive/chunkfive-regular.woff2') format('woff2'),
+		url('/fonts/ChunkFive/chunkfive-regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Milkshake';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		url('/fonts/Milkshake/milkshake.woff2') format('woff2'),
+		url('/fonts/Milkshake/milkshake.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Entypo';
+	src: url('/fonts/Entypo/entypo.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
 body {
+	color: #ff41ce;
+	font-family: sans-serif;
+	font-size: 18px;
 	background-color: #ffec00;
+}
+
+h1 {
+	font-family: 'Milkshake', cursive;
+	font-size: 4em;
+	margin: 0;
+}
+
+h2 {
+	font-family: 'ChunkFive', sans-serif;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: 'ChunkFive', sans-serif;
+	font-size: 1em;
 }
