@@ -1,0 +1,3 @@
+<!-- lab/+paglayoute.svelte -->
+
+<slot />
