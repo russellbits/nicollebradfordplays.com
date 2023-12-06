@@ -4,9 +4,9 @@
 </script>
 
 <main>
-	<div class="logo">
+	<!--<div class="logo">
 		<img src="images/nicolle-alien.png" width="100" height="100" alt="Alien smiley face" />
-	</div>
+	</div>-->
 	<div class="avatar">
 		<img src="images/bio-picture.png" width="400" height="400" alt="Nicolle Bradford Avatar" />
 	</div>
