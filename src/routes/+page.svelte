@@ -4,9 +4,15 @@
 </script>
 
 <main>
-	<!--<div class="logo">
-		<img src="images/nicolle-alien.png" width="100" height="100" alt="Alien smiley face" />
-	</div>-->
+	<p id="announcement">
+		New website under construction. Come back and play soon. <img
+			src="images/nicolle-alien.png"
+			width="50"
+			height="50"
+			alt="Alien smiley face"
+		/>
+	</p>
+
 	<div class="avatar">
 		<img src="images/bio-picture.png" width="400" height="400" alt="Nicolle Bradford Avatar" />
 	</div>
@@ -30,12 +36,15 @@
 		text-align: center;
 		margin: auto;
 	}
-	.logo {
+	/* .logo {
 		position: absolute;
 		top: 30px;
 		left: 30px;
-	}
+	} */
 	.avatar {
 		padding: 1em;
+	}
+	#announcement > img {
+		display: inline;
 	}
 </style>
