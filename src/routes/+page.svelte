@@ -4,17 +4,23 @@
 </script>
 
 <main>
-	<p id="announcement">
+	<!-- <p id="announcement">
 		New website under construction. Come back and play soon. <img
 			src="images/nicolle-alien.png"
 			width="50"
 			height="50"
 			alt="Alien smiley face"
 		/>
-	</p>
+	</p> -->
 
 	<div class="avatar">
-		<img src="images/bio-picture.png" width="400" height="400" alt="Nicolle Bradford Avatar" />
+		<img
+			src="images/center-front-page-logo.png"
+			width="400"
+			height="400"
+			alt="Nicolle Bradford Plays 
+		logo"
+		/>
 	</div>
 	<h1>Nicolle Bradford Plays</h1>
 	<h2>Hype Instigator</h2>
@@ -35,6 +41,7 @@
 	main {
 		text-align: center;
 		margin: auto;
+		padding-top: 4em;
 	}
 	/* .logo {
 		position: absolute;
