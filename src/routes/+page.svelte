@@ -26,13 +26,16 @@
 	<h2>Hype Instigator</h2>
 	<p>
 		<!-- <SocialLinks /> -->
-		<a href="https://pin.it/aYDLBjK">Pinterest</a> |
+		<a href="https://www.pinterest.com/MyMammaSaidShop/">Pinterest</a> |
 		<a href="https://www.facebook.com/nicollebradfordplays"
 			><!--<i class="glyph-facebook glyph-white" />-->Facebook</a
 		>
 		|
 		<a href="https://instagram.com/mymammasaidshop"
 			><!--<i class="glyph-instagram glyph-white" />-->Instagram</a
+		>
+		|
+		<a href="https://www.patreon.com/cw/NicolleBradfordPlays/home?utm_campaign=home_site">Patreon</a
 		>
 	</p>
 </main>
@@ -50,8 +53,5 @@
 	} */
 	.avatar {
 		padding: 1em;
-	}
-	#announcement > img {
-		display: inline;
 	}
 </style>
