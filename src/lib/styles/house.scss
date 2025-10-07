@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'ChunkFive';
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 100;
 	src:
 		url('/fonts/ChunkFive/chunkfive-regular.woff2') format('woff2'),
 		url('/fonts/ChunkFive/chunkfive-regular.woff') format('woff');
@@ -33,12 +33,14 @@ body {
 h1 {
 	font-family: 'Milkshake', cursive;
 	font-size: 4em;
+	font-weight: normal;
 	margin: 0;
 }
 
 h2 {
 	font-family: 'ChunkFive', sans-serif;
 	font-size: 1.5em;
+	font-weight: normal;
 }
 
 p {
