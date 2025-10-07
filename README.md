@@ -24,3 +24,7 @@ npm run build
 ```
 
 The adapter for a static site is in place in `/svelte.config.js`. The final static site will be in `/build` and the contents can be FTP'd to an Apache server.
+
+## TypeScript
+
+This project was converted to a JavaScript-only SvelteKit project. TypeScript and related tooling (e.g. `svelte-check`, `tsconfig/jsconfig`, and `*.d.ts` files) were removed. If you want TypeScript back later, re-add `typescript` and `svelte-check` and the appropriate config files.
