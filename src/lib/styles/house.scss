@@ -36,6 +36,14 @@ h1 {
 	font-weight: normal;
 	margin: 0;
 }
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+	h1 {
+		font-size: 2.5em;
+		line-height: 1em;
+		margin-top: 0.2em;
+	}
+}
 
 h2 {
 	font-family: 'ChunkFive', sans-serif;
